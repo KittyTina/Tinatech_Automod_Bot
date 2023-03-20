@@ -55,7 +55,7 @@ _Below is an example of how you can instruct your audience on installing and set
    ```sh
    git clone https://github.com/KittyTina/Tinatech_Automod_Bot.git
    ```
-3. Enter your API-key in `config.json`
+3. Enter the required stuff in `config.json`
    ```json
    {
    "BOT_TOKEN": "ENTER HERE",
