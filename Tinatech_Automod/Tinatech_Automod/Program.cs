@@ -3,11 +3,8 @@ using Discord.Net;
 using Discord.WebSocket;
 using Discord.Commands;
 using Microsoft.Extensions.Configuration;
+using Microsoft.Extensions.Configuration.Json;
 using Newtonsoft.Json;
-using Newtonsoft.Json.Linq;
-using Microsoft.VisualBasic;
-using System.Runtime.InteropServices;
-using System.Text;
 public class Program
 {
     public static Task Main(string[] args) => new Program().MainAsync();
