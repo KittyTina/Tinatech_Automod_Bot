@@ -100,7 +100,7 @@ Distributed under the GNU General Public License v3.0. See `LICENSE.txt` for mor
 <!-- CONTACT -->
 ## Contact
 
-Project Link: [https://github.com/KittyTina/Discord_CSharpBot](https://github.com/KittyTina/Discord_CSharpBot)
+Project Link: [https://github.com/KittyTina/Tinatech_Automod_Bot](https://github.com/KittyTina/Tinatech_Automod_Bot)
 
 [contributors-url]: https://github.com/KittyTina/Discord_CSharpBot/graphs/contributors
 [DiscordSharp-url]: https://discordnet.dev/guides/getting_started/first-bot.html
